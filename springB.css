@@ -1,0 +1,42 @@
+.todo {
+  font-size: 40px;
+  color: purple;
+}
+
+.todo:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  transition: all 200ms;
+}
+
+.completed {
+  color: gray;
+  text-decoration: line-through;
+}
+
+#main-heading {
+  font-size: 80px;
+}
+
+.thumbnail {
+  width: 200px;
+}
+
+
+/* setting for color letters */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #333;
+}
+
+h1 {
+  font-size: 9rem;
+  font-family: montserrat;
+}
+
+.letter {
+  transition: 1000ms;
+}
