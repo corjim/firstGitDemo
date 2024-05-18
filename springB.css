@@ -30,13 +30,14 @@ body {
   align-items: center;
   height: 100vh;
   background-color: teal;
+  border: 0;
 }
 
 h1 {
   font-size: 13rem;
-  font-family: montserrat;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .letter {
-  transition: 1000ms;
+  transition: 2000ms;
 }
