@@ -35,9 +35,9 @@ body {
 
 h1 {
   font-size: 13rem;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .letter {
-  transition: 1.5000ms;
+  transition: 2000ms;
 }
