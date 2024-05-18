@@ -30,13 +30,14 @@ body {
   align-items: center;
   height: 100vh;
   background-color: teal;
+  border: 1px;
 }
 
 h1 {
   font-size: 13rem;
-  font-family: montserrat;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .letter {
-  transition: 1000ms;
+  transition: 1.5000ms;
 }
